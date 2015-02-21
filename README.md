@@ -1,4 +1,4 @@
-# Bing picture of the day downloader
+# Bing picture of the day downloader [![Build Status](https://travis-ci.org/sharpyfox/bing-bg-downloader.svg?branch=master)](https://travis-ci.org/sharpyfox/bing-bg-downloader)
 
 This is golang implementation of Bing picture of the day downloader.
 
